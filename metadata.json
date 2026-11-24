@@ -1,0 +1,6 @@
+{
+  "name": "Energy Calculator",
+  "description": "Mobile-friendly DC KW/Amp converter, DCEM auto & manual channel reading calculator, and EB energy reading tracker synced with Excel and Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
